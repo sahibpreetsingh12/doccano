@@ -11,3 +11,7 @@ To install Postgres DB in linux refer [here](https://www.digitalocean.com/commun
 
 # Now to connect to Postgres Db using Python We used Psycopg2 package 
 Install from [here](https://pypi.org/project/psycopg2/)
+
+
+# ISSUES 
+1. Setting client computer for annoatators [here](https://docs.google.com/document/d/1p3i2kiU5hfSvI8p9bBNObJI6MgMOb7DTL4yu29PAW9w/edit?usp=sharing)
